@@ -1,3 +1,4 @@
 theme: jekyll-theme-dinky
 title: Welcome to Fiona's portfolio
 description: Data plus Science equals Awesome!
+show_downloads: false
