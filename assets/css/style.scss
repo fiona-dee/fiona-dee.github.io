@@ -1,9 +1,8 @@
 ---
 ---
 
-/* Header - override background colour*/
+@import 'jekyll-theme-dinky';
+
 header {
 	background-color: #052F61;
 }
-
-@import "{{ site.theme }}";
