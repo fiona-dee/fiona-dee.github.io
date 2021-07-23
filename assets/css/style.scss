@@ -1,6 +1,8 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
 /* Header */
 
 header {
@@ -20,7 +22,3 @@ header {
 	margin: 30px 25px 0 0;
 	-webkit-font-smoothing: antialiased;
 }
-
-
-@import "{{ site.theme }}";
-
