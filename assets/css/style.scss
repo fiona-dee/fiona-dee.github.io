@@ -10,6 +10,8 @@ header {
 
 header li {
 	background: #813772;
+	-webkit-box-shadow: inset 0px 1px 1px 0 rgba(148, 97, 142, 1);
+	box-shadow: inset 0px 1px 1px 0 rgba(148, 97, 142, 1);
 }
 
 header li:hover {
