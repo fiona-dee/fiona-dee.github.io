@@ -4,9 +4,19 @@
 @import 'jekyll-theme-dinky';
 
 header {
-	background-color: #052F61;
+	background-color: #062F4F;
 }
 
+
+header li {
+	background: #813772;
+}
+
+header li:hover {
+	background: #B82601;
+}
+
+/* gradient buttons
 header li {
 	list-style-type: none;
   width:132px;
@@ -29,3 +39,15 @@ header li {
 	-webkit-box-shadow: inset 0px 1px 1px 0 rgba(107, 31, 90, 1);
 	box-shadow: inset 0px 1px 1px 0 rgba(107, 31, 90, 1);
 }
+
+header li:hover {
+	background: #C3001D;
+	background: -moz-linear-gradient(top, #C3001D 0%, #950119 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
+  background: -webkit-linear-gradient(top, #C3001D 0%,#950119 100%);
+  background: -o-linear-gradient(top, #C3001D 0%,#950119 100%);
+  background: -ms-linear-gradient(top, #C3001D 0%,#950119 100%);
+  background: linear-gradient(to top, #C3001D 0%,#950119 100%);
+}
+
+/* end gradient buttons */
