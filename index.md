@@ -32,7 +32,7 @@ Predict which geographic areas have a volunteering rate above or below the Queen
 ---
 
 #### Data Science Immersive (DSI) projects
-Course projects with specified data and goals.
+Course projects with specified data and goals.  
 ◆ Tools: Jupyter Notebook & Python, Scrapy & spiders  
 ◆ Libraries: Scikit-learn, Pandas, SciPy, Numpy, Seaborn, Matplotlib  
 
