@@ -19,8 +19,8 @@ Predict which geographic areas have a volunteering rate above or below the Queen
 ◆ Tools: Jupyter Notebook & Python, SQLite  
 ◆ Libraries: Scikit-learn, Pandas, Statsmodels, Seaborn, Matplotlib  
 
-<img src="./assets/images/national-map_story-p1.png?raw=true" alt="Actual and predicted on map" height="200" border="1px solid #ccc">
-<img src="./assets/images/national-map_story-p2.png?raw=true" alt="Misclassified areas shown on map" height="200"> 
+<img src="./assets/images/national-map_story-p1.png?raw=true" alt="Actual and predicted on map" height="200" border="1px solid #ccc"/>
+<img src="./assets/images/national-map_story-p2.png?raw=true" alt="Misclassified areas shown on map" height="200" border="1px solid #062F4F"/> 
 
 If you would like to play on the map itself:  
 * Click on the link below  
