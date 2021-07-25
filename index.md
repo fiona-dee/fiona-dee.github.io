@@ -13,7 +13,10 @@ I'm looking forward to building my skills through experience and collaboration.
 Jul 2021
 
 Predict which geographic areas have a volunteering rate above or below the Queensland state average.  Identify significant features for predicting volunteering rates of geographic areas.  
-[Check out what it looks like on a map](https://nationalmap.gov.au/#share=s-4Ui1U2edH3iL9dDPHjIVytC4ChV)
+
+<a role="link" target="_blank" rel="noopener noreferrer" href="https://nationalmap.gov.au/#share=s-6ARgXA9y96DpM1sFtv5VXEhEAkQ">Check out what it looks like on a map</a>  
+<a target="_blank" class="text-bold" rel="noopener noreferrer" href="https://nationalmap.gov.au/#share=s-6ARgXA9y96DpM1sFtv5VXEhEAkQ"><img src="./assets/images/national-map_story.png?raw=true" alt="Visualise prediction on a map" height="200"></a>
+
 
 ◆ Models: Regression, Classification &, Ensemble  
 ◆ Dataset: sourced from Australian Bureau of Statistics (ABS), 2016 Census  
