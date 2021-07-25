@@ -33,27 +33,30 @@ Predict which geographic areas have a volunteering rate above or below the Queen
 
 #### Data Science Immersive (DSI) projects
 Course projects with specified data and goals.
-
 ◆ Tools: Jupyter Notebook & Python, Scrapy & spiders  
 ◆ Libraries: Scikit-learn, Pandas, SciPy, Numpy, Seaborn, Matplotlib  
 
-[Link to jupyter notebooks for these projects](https://github.com/fiona-dee/DSI-projects)
+[Link to jupyter notebooks for these projects](https://github.com/fiona-dee/DSI-projects)  
+<br>
 
 **Web Scraping, Natural Language Processing (NLP) & Evaluate models**  
 June 2021 • dsi-project-4  
 > For data-related jobs: identify factors which impact salary and distinguish job category. Scrape my own dataset from Seek.com.au  
 Dataset: 12,000 jobs scraped from Seek.com.au  
+<br>  
 
 **Feature Engineering & Machine Learning (ML) Regression models**  
 May 2021 • dsi-project-3  
 > Given sales and property information: estimate the sale price of properties based on their “fixed” characteristics, and the impact of possible renovations.  
 Dataset: Ames housing data  
+<br>
 
 **Exploratory Data Analysis (EDA) & Hypothesis testing**  
 April 2021 • dsi-project-2  
 > For this project, learn about and understand the data, through summary statistics and visualization. Then devise testable hypotheses that could point in specific policy directions.  
 Datasets: SAT_scores & drug-use-by-age  
+<br>
 
 **Coding Challenges**  
 April 2021 • dsi-project-4  
-> Palindrome | Primes | Fizzbuzz | String compressor | File handling  
+> Palindrome • Primes • Fizzbuzz • String compressor • File handling  
