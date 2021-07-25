@@ -14,14 +14,22 @@ Jul 2021
 
 Predict which geographic areas have a volunteering rate above or below the Queensland state average.  Identify significant features for predicting volunteering rates of geographic areas.  
 
-<a role="link" target="_blank" rel="noopener noreferrer" href="https://nationalmap.gov.au/#share=s-6ARgXA9y96DpM1sFtv5VXEhEAkQ">Check out what it looks like on a map</a>  
-<a target="_blank" class="text-bold" rel="noopener noreferrer" href="https://nationalmap.gov.au/#share=s-6ARgXA9y96DpM1sFtv5VXEhEAkQ"><img src="./assets/images/national-map_story.png?raw=true" alt="Visualise prediction on a map" height="200"></a>
-
-
 ◆ Models: Regression, Classification &, Ensemble  
 ◆ Dataset: sourced from Australian Bureau of Statistics (ABS), 2016 Census  
 ◆ Tools: Jupyter Notebook & Python, SQLite  
 ◆ Libraries: Scikit-learn, Pandas, Statsmodels, Seaborn, Matplotlib  
+
+<kbd> <img src="./assets/images/national-map_story-p1.png?raw=true" alt="Actual and predicted on map" height="250"></a> </kbd>
+<kbd> <img src="./assets/images/national-map_story-p2.png?raw=true" alt="Misclassified areas shown on map" height="250"></a> </kbd>
+
+> If you would like to play on the map itself:  
+> * Click on the link below  
+> * On the popup, "Close" to stay on this map   
+> * On the 'This map contains a story', "Yes" to view the story   
+> 
+> <a target="_blank" rel="noopener noreferrer" href="https://nationalmap.gov.au/#share=s-zwNgwoFYivvblCizv3EVpHTtJUy">Link to interactive map</a>  
+
+---
 
 #### Web Scraping, Natural Language Processing (NLP) & Evaluate models 
 June 2021 
